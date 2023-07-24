@@ -16,7 +16,7 @@ Author Profile: Each user is assigned a dedicated author profile page. This page
 Explore Texts: Visitors to the website can read texts posted by various authors. The platform provides a rich collection of creative writings, ensuring a diverse reading experience.
 
 # Technology Stack
-The following technologies are utilized to build and run the Writer's Hub:
+The following technologies are utilized to build and run the Postagram:
 
 Frontend:
 
